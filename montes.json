@@ -1,0 +1,47 @@
+[
+    {
+        "NumeroMonte": 1,
+        "NombreMonte": "Albeizko Haitza",
+        "Altitud": "1014 m"
+    },
+    {
+        "NumeroMonte": 2,
+        "NombreMonte": "Albertia",
+        "Altitud": "867 m"
+    },
+    {
+        "NumeroMonte": 3,
+        "NombreMonte": "Perriain",
+        "Altitud": "1122 m"
+    },
+    {
+        "NumeroMonte": 4,
+        "NombreMonte": "Almurrain",
+        "Altitud": "881 m"
+    },
+    {
+        "NumeroMonte": 5,
+        "NombreMonte": "Aldaia",
+        "Altitud": "789 m"
+    },
+    {
+        "NumeroMonte": 6,
+        "NombreMonte": "Allaitz",
+        "Altitud": "1245 m"
+    },
+    {
+        "NumeroMonte": 7,
+        "NombreMonte": "Amaritu",
+        "Altitud": "786 m"
+    },
+    {
+        "NumeroMonte": 8,
+        "NombreMonte": "Santiago",
+        "Altitud": "944 m"
+    },
+    {
+        "NumeroMonte": 10,
+        "NombreMonte": "Telleta",
+        "Altitud": "920 m"
+    }
+]

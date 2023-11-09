@@ -1,0 +1,37 @@
+[
+    {
+        "NumeroMonte": 1,
+        "NombreMonte": "Albeizko Haitza",
+        "Altitud": "1014 m",
+        "ImagenPpal": "/storage/mountains/1_irn2ms1talfuq8y7.jpg",
+        "URLMendikat": "https://www.mendikat.net/com/mount/1"
+    },
+    {
+        "NumeroMonte": 2,
+        "NombreMonte": "Albertia",
+        "Altitud": "867 m",
+        "ImagenPpal": "/storage/mountains/2_oe7rtw5s609huk8p.jpg",
+        "URLMendikat": "https://www.mendikat.net/com/mount/2"
+    },
+    {
+        "NumeroMonte": 3,
+        "NombreMonte": "Perriain",
+        "Altitud": "1122 m",
+        "ImagenPpal": "/storage/mountains/3_kqfajz05u9mbnplx.jpg",
+        "URLMendikat": "https://www.mendikat.net/com/mount/3"
+    },
+    {
+        "NumeroMonte": 4,
+        "NombreMonte": "Almurrain",
+        "Altitud": "881 m",
+        "ImagenPpal": "/storage/mountains/4_4g51n0jcfiqvs73a.jpg",
+        "URLMendikat": "https://www.mendikat.net/com/mount/4"
+    },
+    {
+        "NumeroMonte": 5,
+        "NombreMonte": "Aldaia",
+        "Altitud": "789 m",
+        "ImagenPpal": "/storage/mountains/5_zwf4su8gjh1yiqmt.jpg",
+        "URLMendikat": "https://www.mendikat.net/com/mount/5"
+    }
+]
